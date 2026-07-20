@@ -123,3 +123,6 @@ expense-tracker-cli/
 ## License
 
 This project is licensed under the MIT License.
+
+## Repository
+You can find the source code here: [expense-tracker-cli](https://github.com/BernardoOGomes/expense-tracker-cli)
