@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local expense database
+expenses.json
+
+# Virtual environments (if you create one later)
+.venv/
+venv/
+
+# VS Code settings (optional)
+.vscode/
