@@ -124,5 +124,5 @@ expense-tracker-cli/
 
 This project is licensed under the MIT License.
 
-## Repository
-You can find the source code here: [expense-tracker-cli](https://github.com/BernardoOGomes/expense-tracker-cli)
+## Project Page
+This project was built following the requirements on: [Roadmap.sh Expense Tracker Project](https://roadmap.sh/projects/expense-tracker)
